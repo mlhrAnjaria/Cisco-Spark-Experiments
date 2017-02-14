@@ -7,3 +7,5 @@ For the experiment  camera was interfaced with RaspberryPi and used Python's _py
 Image is getting classified with help of _CascadeClassifier_ of OpenCV library.
 
 If there is a change in number of faces detected from previous frame, then a notification is sent to user over Cisco Spark using Email.
+
+![Alt text](https://cloud.githubusercontent.com/assets/644483/22921982/dbc31a40-f2c1-11e6-89b6-1f17234af502.png "Optional title")
