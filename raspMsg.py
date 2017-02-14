@@ -36,4 +36,4 @@ def sendImageonSpark(faceNum,imgName,sendTo):
     print(str(resp.status_code))
     return str(resp.status_code)
 
-sendImageonSpark('1','trump.jpg','manjaria@cisco.com')
+sendImageonSpark('1','screenshot.jpg','xyz@maildomain.com')

@@ -10,7 +10,7 @@ from requests_toolbelt.multipart.encoder import MultipartEncoder
 
 accesstoken="Bearer "+"<Token Here>"
 image_filename = 'detected.jpg'
-email_addr = 'manjaria@cisco.com'
+email_addr = 'xyz@maildomain.com'
 
 def _url(path):
     return 'https://api.ciscospark.com/v1' + path
