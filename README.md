@@ -10,3 +10,19 @@ Image is getting classified with help of _CascadeClassifier_ of _OpenCV_ library
 If there is a change in number of faces detected from previous frame, then a notification is sent to user over Cisco Spark using Email.
 
 ![Alt text](https://cloud.githubusercontent.com/assets/644483/22921982/dbc31a40-f2c1-11e6-89b6-1f17234af502.png "Optional title")
+
+####BookmarkBot
+BookmarkBot allows a user to add and find personal bookmarks. 
+This bot was developed using [Gupshup Platform](https://www.gupshup.io). 
+
+Gupshup provides a good guide on how to start developing a bot and how to integrate it with Cisco Spark or any other channel.
+
+**Usage**
+@bookmarkbot /<command> <name> <URL> 
+/command - can be /add or /get
+name - any valid one word name that you can search late. 
+URL - A Valid URL.
+
+Example,
+@bookmarkbot /add SparkExperiments https://github.com/mlhrAnjaria/Cisco-Spark-Experiments
+@bookmarbot /get SparkExperiments
