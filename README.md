@@ -18,7 +18,8 @@ This bot was developed using [Gupshup Platform](https://www.gupshup.io).
 Gupshup provides a good guide on how to start developing a bot and how to integrate it with Cisco Spark or any other channel.
 
 **Usage**
-@bookmarkbot /<command> <name> <URL> 
+@bookmarkbot /\<command> \<name> \<URL>
+
 /command - can be /add or /get
 name - any valid one word name that you can search late. 
 URL - A Valid URL.
