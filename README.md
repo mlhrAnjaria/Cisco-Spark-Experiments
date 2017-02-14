@@ -19,10 +19,9 @@ Gupshup provides a good guide on how to start developing a bot and how to integr
 
 **Usage**
 @bookmarkbot /\<command> \<name> \<URL>
-
-/command - can be /add or /get
-name - any valid one word name that you can search late. 
-URL - A Valid URL.
+* /command - can be /add or /get
+* name - any valid one word name that you can search late. 
+* URL - A Valid URL.
 
 Example,
 @bookmarkbot /add SparkExperiments https://github.com/mlhrAnjaria/Cisco-Spark-Experiments
